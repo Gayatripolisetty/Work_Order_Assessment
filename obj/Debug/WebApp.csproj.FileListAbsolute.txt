@@ -1,0 +1,6 @@
+C:\AbacusProject\Development\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+C:\AbacusProject\Development\WebApp\bin\Debug\WebApp.exe.config
+C:\AbacusProject\Development\WebApp\bin\Debug\WebApp.exe
+C:\AbacusProject\Development\WebApp\bin\Debug\WebApp.pdb
+C:\AbacusProject\Development\WebApp\obj\Debug\WebApp.exe
+C:\AbacusProject\Development\WebApp\obj\Debug\WebApp.pdb
